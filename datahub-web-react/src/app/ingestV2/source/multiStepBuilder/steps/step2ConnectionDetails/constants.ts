@@ -1,3 +1,0 @@
-export const MAX_FORM_WIDTH = '524px';
-
-export const INGESTION_TYPE_ERROR = 'INGESTION_TYPE_ERROR';
