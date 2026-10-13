@@ -1,8 +1,0 @@
-id: portfolio_analytics
-domain: Marketing
-display_name: Portfolio Analytics
-description: Internal product derived from the vendor equities feed.
-parent_data_product: Vendor Equities
-
-assets:
-  - urn:li:container:DATABASE

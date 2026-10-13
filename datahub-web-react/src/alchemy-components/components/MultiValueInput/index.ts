@@ -1,1 +1,0 @@
-export { MultiValueInput } from './MultiValueInput';
